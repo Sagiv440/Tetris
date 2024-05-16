@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sagiv/Projects/Tetris/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/Tetris.dir/olcExampleProgram.cpp.o -c /home/sagiv/Projects/Tetris/olcExampleProgram.cpp",
+  "file": "/home/sagiv/Projects/Tetris/olcExampleProgram.cpp"
+}
+]
